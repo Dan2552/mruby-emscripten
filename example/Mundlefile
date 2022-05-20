@@ -1,4 +1,4 @@
 platform :wasm
 
 gembox :default
-gem "mruby-emscripten", path: "../", platforms: [:wasm]
+gem "mruby-emscripten", path: "../"
